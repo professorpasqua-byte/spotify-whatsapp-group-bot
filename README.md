@@ -22,7 +22,7 @@ It started as a general AI assistant and moderation bot, and now everything abou
 
 ## 🧪 Test the Bot
 
-To see it working before you set it up, message **[+2349135615687](https://wa.me/YOUR_NUMBER)** or add it to a test group.
+To see it working before you set it up, message **[+2349135615687](https://wa.me/2349135615687)** on WhatsApp. or add it to a test group.
 
 _(Replace the number above with your own test number.)_
 
